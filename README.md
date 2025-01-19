@@ -14,9 +14,9 @@ Welcome to the official repository of the Future Road project. This project aims
 The Future Road smart contract has been deployed on the Polygon (Matic) network to ensure fast, secure, and low-cost transactions. Below are the details of the contract:
 
 - Network: Polygon (Matic)
-- Contract Address: 0x264d9c15513B490908dA3909d1b46b6237eAE9a4
+- Contract Address: [0x638071b2D56D23fAC208192baf9C770E4D036245](https://polygonscan.com/address/0x638071b2D56D23fAC208192baf9C770E4D036245)
 - Token Name: FutureRoad
 - Symbol: FRC
 - Decimals: 18
----
+--- 
 Visit our website [Future Road](https://frctoken.io)
